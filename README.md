@@ -1,3 +1,15 @@
+# NewsApp
+
+### Objective
+this is simple news web app to see latest daily news category wise like - Health, Sports, Business, Technology, Entertainment, Science.
+
+### Video
+
+
+https://user-images.githubusercontent.com/77239125/182831637-1308161f-9346-4a05-9ef9-8e7b2d704b10.mp4
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
