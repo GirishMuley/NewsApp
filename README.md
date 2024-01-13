@@ -5,7 +5,7 @@ this is simple news web app to see latest daily news category wise like - Health
 
 ### Technical Features
 News API
-this is simple news web app to see latest daily news category wise like - Health, Sports, Business, Technology, Entertainment, Science.
+
 
 ### Video
 
