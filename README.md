@@ -3,6 +3,10 @@
 ### Objective
 this is simple news web app to see latest daily news category wise like - Health, Sports, Business, Technology, Entertainment, Science.
 
+### Technical Features
+News API
+this is simple news web app to see latest daily news category wise like - Health, Sports, Business, Technology, Entertainment, Science.
+
 ### Video
 
 
